@@ -1,3 +1,6 @@
 somthing
+<<<<<<< HEAD
 somthingelse
 hkjadshfaskjashfksajhf
+=======
+>>>>>>> parent of 7545e48... something else was added
